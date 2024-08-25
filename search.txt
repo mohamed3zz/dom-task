@@ -1,0 +1,6 @@
+- htmlcollection and nodelist are lists of dom nodes.
+- htmlcollection stores element nodes ,but nodelist stores any type of nodes.
+- htmlcollection is a live collection ,but nodelist is a static collection expect on using childnodes.
+------------------------------------------------------------------------------------------------
+-append : add text to the text in the div.
+-append child : add element in the element.
